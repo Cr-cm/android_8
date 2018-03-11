@@ -33,6 +33,10 @@
   <remote  name="caf"
            fetch="git://codeaurora.org/quic/la" />
 
+  <remote  name="gianogli"
+           fetch="git://github.com/gianogli"
+           revision="8.1" />
+
   <!-- AOSP Projects -->
 
   <!--<project path="build/make" name="LineageOS/android_build" groups="pdk" >
@@ -591,6 +595,8 @@
 
   <include name="snippets/crdroid.xml" />
   <include name="snippets/lineage.xml" />
+
+  <include name="snippets/i9300.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 

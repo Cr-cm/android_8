@@ -37,9 +37,9 @@
            fetch="git://github.com/gianogli"
 	   revision="8.1" />
 
-  <remote  name="rinando"
+   <!-- <remote  name="rinando"
            fetch="git://github.com/rINanDO"
-	   revision="lineage-15.1" />
+	   revision="lineage-15.1" /> -->
 
   <!-- AOSP Projects -->
 

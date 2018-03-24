@@ -34,9 +34,9 @@
   <project path="external/skia" name="crdroidandroid/android_external_skia" remote="crdroid" />
   <project path="external/sqlite" name="crdroidandroid/android_external_sqlite" remote="crdroid" />
 
-  <project path="frameworks/av" name="android_frameworks_av" remote="gianogli" />
+  <project path="frameworks/av" name="android_frameworks_av_8" remote="gianogli" />
   <project path="frameworks/base" name="crdroidandroid/android_frameworks_base" remote="crdroid" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="gianogli" />
+  <project path="frameworks/native" name="android_frameworks_native_8" remote="gianogli" />
 
   <project path="libcore" name="crdroidandroid/android_libcore" remote="crdroid" />
   <project path="libnativehelper" name="crdroidandroid/android_libnativehelper" remote="crdroid" />
@@ -63,7 +63,7 @@
 
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="neobuddy89/arm-eabi-4.9" revision="master" clone-depth="1" />
 
-  <project path="system/core" name="crdroidandroid/android_system_core" remote="crdroid" />
+  <project path="system/core" name="android_system_core_8" remote="gianogli" />
   <project path="system/sepolicy" name="crdroidandroid/android_system_sepolicy" remote="crdroid" />
 
   <project path="vendor/addons" name="crdroidandroid/android_vendor_addons" remote="crdroid" />

@@ -36,7 +36,7 @@
 
   <project path="frameworks/av" name="android_frameworks_av" revision="lineage-15.1" remote="gianogli" />
   <project path="frameworks/base" name="crdroidandroid/android_frameworks_base" remote="crdroid" />
-  <project path="frameworks/native" name="crdroidandroid/android_frameworks_native" remote="crdroid" />
+  <project path="frameworks/native" name="android_frameworks_native" revisione="lineage-15.1" remote="gianogli" />
 
   <project path="libcore" name="crdroidandroid/android_libcore" remote="crdroid" />
   <project path="libnativehelper" name="crdroidandroid/android_libnativehelper" remote="crdroid" />

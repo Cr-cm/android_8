@@ -9,7 +9,9 @@
   <!-- <project name="android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="rinando" revision="lineage-15.1" /> -->
   <!-- <project name="t0oreo/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" revision="lineage-15.1" /> -->
   <!-- <project name="android_hardware_samsung" path="hardware/samsung" remote="rinando" revision="lineage-15.1" /> -->
-  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-15.1" />
+  <!-- <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="lineage-15.1" /> -->
+  <project path="vendor/samsung/smdk4412-common" name="android_vendor_samsung_smdk4412-common_8" remote="gianogli" revision="lineage-15.1" />
+  <project path="vendor/samsung/i9300" name="android_vendor_samsung_i9300_8" remote="gianogli" revision="lineage-15.1" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" revision="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" revision="lineage-15.1" />
  <!-- END i9300 -->
